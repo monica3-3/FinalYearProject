@@ -1,0 +1,4 @@
+platform :ios, '14.0'
+target 'PTMobileDemo' do
+    pod 'LibTorch', '~> 1.7.0'
+end
